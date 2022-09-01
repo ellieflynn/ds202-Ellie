@@ -1,5 +1,2 @@
 # ds202-Ellie
-hello world
-
-- first
-- second
+ode to an academic advisor
